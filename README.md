@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Matahari React Frontend APP for Shopping
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
